@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": "all.json",
+    "source": "database: nodes(10000), rels(1391126)",
+    "format": "json",
+    "nodes": 10000,
+    "relationships": 1391126,
+    "properties": 36750,
+    "time": 3315,
+    "rows": 1401126,
+    "batchSize": -1,
+    "batches": 0,
+    "done": true,
+    "data": null
+  }
+]
