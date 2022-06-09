@@ -1,0 +1,21 @@
+#Bad example -
+MATCH (c:Client)-[h:hires]->(C:Company)-[H:`is headed by`]->(p:Person) RETURN c, h, C, H, p
+
+# Return what company programmer 'fp210' works for
+MATCH (p:Programmer {firstName: 'fp210'})-[w:`works for`]->(c:Company) RETURN p, w, c
+
+# Return all programmers who work for company 'C80'
+MATCH (p:Programmer)-[w:`works for`]->(c:Company{name: 'C80'}) RETURN p, w, c
+
+# How many companies have exactly 3 employees
+MATCH (p:Programmer)-[w:`works for`]->(c:Company) 
+WITH c, count(p) as employees
+WHERE employees = 3
+RETURN count(employees)
+
+# Which company has the most number of programmers (employees) and how many employees do they have?
+MATCH (p:Programmer)-[w:`works for`]->(company:Company)
+RETURN company.name, COLLECT(p.firstName) as programmers, count(p) as numProgrammers
+ORDER BY SIZE(programmers) DESC LIMIT 10
+
+# What programmers have more
