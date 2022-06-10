@@ -1,0 +1,2927 @@
+[
+  {
+    "uid": 9676,
+    "location": "",
+    "start_time": "6/1/22 3:12",
+    "end_time": "5/31/22 21:30",
+    "fixed_problem": "f",
+    "uid__1": 8581,
+    "uid__2": 1064
+  },
+  {
+    "uid": 9677,
+    "location": "",
+    "start_time": "6/1/22 11:22",
+    "end_time": "6/1/22 11:58",
+    "fixed_problem": "f",
+    "uid__1": 8722,
+    "uid__2": 716
+  },
+  {
+    "uid": 9678,
+    "location": "",
+    "start_time": "6/1/22 10:46",
+    "end_time": "6/1/22 7:11",
+    "fixed_problem": "t",
+    "uid__1": 8447,
+    "uid__2": 733
+  },
+  {
+    "uid": 9679,
+    "location": "",
+    "start_time": "6/1/22 7:18",
+    "end_time": "5/31/22 20:47",
+    "fixed_problem": "f",
+    "uid__1": 8544,
+    "uid__2": 823
+  },
+  {
+    "uid": 9680,
+    "location": "",
+    "start_time": "6/1/22 13:11",
+    "end_time": "6/1/22 5:21",
+    "fixed_problem": "t",
+    "uid__1": 8037,
+    "uid__2": 783
+  },
+  {
+    "uid": 9681,
+    "location": "",
+    "start_time": "6/1/22 5:35",
+    "end_time": "6/1/22 5:32",
+    "fixed_problem": "t",
+    "uid__1": 8792,
+    "uid__2": 932
+  },
+  {
+    "uid": 9682,
+    "location": "",
+    "start_time": "5/31/22 22:14",
+    "end_time": "6/1/22 18:56",
+    "fixed_problem": "f",
+    "uid__1": 8336,
+    "uid__2": 790
+  },
+  {
+    "uid": 9683,
+    "location": "",
+    "start_time": "6/1/22 15:22",
+    "end_time": "6/1/22 7:52",
+    "fixed_problem": "t",
+    "uid__1": 8165,
+    "uid__2": 1195
+  },
+  {
+    "uid": 9684,
+    "location": "",
+    "start_time": "6/1/22 8:19",
+    "end_time": "6/1/22 8:27",
+    "fixed_problem": "t",
+    "uid__1": 8607,
+    "uid__2": 893
+  },
+  {
+    "uid": 9685,
+    "location": "",
+    "start_time": "6/1/22 17:43",
+    "end_time": "5/31/22 22:20",
+    "fixed_problem": "t",
+    "uid__1": 8632,
+    "uid__2": 1043
+  },
+  {
+    "uid": 9686,
+    "location": "",
+    "start_time": "6/1/22 15:16",
+    "end_time": "6/1/22 17:04",
+    "fixed_problem": "t",
+    "uid__1": 8498,
+    "uid__2": 885
+  },
+  {
+    "uid": 9687,
+    "location": "",
+    "start_time": "6/1/22 1:24",
+    "end_time": "6/1/22 1:01",
+    "fixed_problem": "t",
+    "uid__1": 8250,
+    "uid__2": 1241
+  },
+  {
+    "uid": 9688,
+    "location": "",
+    "start_time": "6/1/22 1:16",
+    "end_time": "5/31/22 23:44",
+    "fixed_problem": "t",
+    "uid__1": 8448,
+    "uid__2": 1020
+  },
+  {
+    "uid": 9689,
+    "location": "",
+    "start_time": "5/31/22 22:01",
+    "end_time": "6/1/22 17:56",
+    "fixed_problem": "f",
+    "uid__1": 8311,
+    "uid__2": 897
+  },
+  {
+    "uid": 9690,
+    "location": "",
+    "start_time": "5/31/22 20:12",
+    "end_time": "6/1/22 16:26",
+    "fixed_problem": "f",
+    "uid__1": 8452,
+    "uid__2": 1135
+  },
+  {
+    "uid": 9691,
+    "location": "",
+    "start_time": "6/1/22 5:08",
+    "end_time": "6/1/22 3:57",
+    "fixed_problem": "f",
+    "uid__1": 9017,
+    "uid__2": 1301
+  },
+  {
+    "uid": 9692,
+    "location": "",
+    "start_time": "6/1/22 11:14",
+    "end_time": "5/31/22 21:49",
+    "fixed_problem": "t",
+    "uid__1": 8934,
+    "uid__2": 1235
+  },
+  {
+    "uid": 9693,
+    "location": "",
+    "start_time": "6/1/22 10:58",
+    "end_time": "6/1/22 3:27",
+    "fixed_problem": "t",
+    "uid__1": 9000,
+    "uid__2": 779
+  },
+  {
+    "uid": 9694,
+    "location": "",
+    "start_time": "5/31/22 23:07",
+    "end_time": "5/31/22 23:01",
+    "fixed_problem": "f",
+    "uid__1": 8566,
+    "uid__2": 865
+  },
+  {
+    "uid": 9695,
+    "location": "",
+    "start_time": "6/1/22 8:09",
+    "end_time": "6/1/22 13:59",
+    "fixed_problem": "t",
+    "uid__1": 8485,
+    "uid__2": 751
+  },
+  {
+    "uid": 9696,
+    "location": "",
+    "start_time": "5/31/22 21:41",
+    "end_time": "5/31/22 21:31",
+    "fixed_problem": "t",
+    "uid__1": 8066,
+    "uid__2": 1283
+  },
+  {
+    "uid": 9697,
+    "location": "",
+    "start_time": "6/1/22 14:12",
+    "end_time": "6/1/22 1:49",
+    "fixed_problem": "t",
+    "uid__1": 8767,
+    "uid__2": 1228
+  },
+  {
+    "uid": 9698,
+    "location": "",
+    "start_time": "6/1/22 19:00",
+    "end_time": "5/31/22 21:18",
+    "fixed_problem": "f",
+    "uid__1": 8740,
+    "uid__2": 1312
+  },
+  {
+    "uid": 9699,
+    "location": "",
+    "start_time": "6/1/22 1:29",
+    "end_time": "5/31/22 23:40",
+    "fixed_problem": "t",
+    "uid__1": 8967,
+    "uid__2": 721
+  },
+  {
+    "uid": 9700,
+    "location": "",
+    "start_time": "5/31/22 22:17",
+    "end_time": "6/1/22 7:37",
+    "fixed_problem": "f",
+    "uid__1": 8721,
+    "uid__2": 1005
+  },
+  {
+    "uid": 9701,
+    "location": "",
+    "start_time": "6/1/22 4:44",
+    "end_time": "6/1/22 9:48",
+    "fixed_problem": "t",
+    "uid__1": 8846,
+    "uid__2": 894
+  },
+  {
+    "uid": 9702,
+    "location": "",
+    "start_time": "6/1/22 5:07",
+    "end_time": "6/1/22 4:21",
+    "fixed_problem": "f",
+    "uid__1": 8838,
+    "uid__2": 776
+  },
+  {
+    "uid": 9703,
+    "location": "",
+    "start_time": "6/1/22 4:00",
+    "end_time": "6/1/22 9:25",
+    "fixed_problem": "f",
+    "uid__1": 8512,
+    "uid__2": 705
+  },
+  {
+    "uid": 9704,
+    "location": "",
+    "start_time": "6/1/22 3:09",
+    "end_time": "6/1/22 9:32",
+    "fixed_problem": "f",
+    "uid__1": 8903,
+    "uid__2": 1157
+  },
+  {
+    "uid": 9705,
+    "location": "",
+    "start_time": "6/1/22 12:13",
+    "end_time": "5/31/22 20:34",
+    "fixed_problem": "f",
+    "uid__1": 8093,
+    "uid__2": 1125
+  },
+  {
+    "uid": 9706,
+    "location": "",
+    "start_time": "6/1/22 3:05",
+    "end_time": "6/1/22 18:58",
+    "fixed_problem": "f",
+    "uid__1": 8277,
+    "uid__2": 846
+  },
+  {
+    "uid": 9707,
+    "location": "",
+    "start_time": "6/1/22 14:03",
+    "end_time": "5/31/22 23:48",
+    "fixed_problem": "t",
+    "uid__1": 8349,
+    "uid__2": 887
+  },
+  {
+    "uid": 9708,
+    "location": "",
+    "start_time": "6/1/22 4:59",
+    "end_time": "6/1/22 9:58",
+    "fixed_problem": "f",
+    "uid__1": 8114,
+    "uid__2": 744
+  },
+  {
+    "uid": 9709,
+    "location": "",
+    "start_time": "6/1/22 1:00",
+    "end_time": "5/31/22 23:05",
+    "fixed_problem": "f",
+    "uid__1": 8743,
+    "uid__2": 692
+  },
+  {
+    "uid": 9710,
+    "location": "",
+    "start_time": "6/1/22 9:28",
+    "end_time": "6/1/22 10:42",
+    "fixed_problem": "t",
+    "uid__1": 8631,
+    "uid__2": 875
+  },
+  {
+    "uid": 9711,
+    "location": "",
+    "start_time": "6/1/22 18:28",
+    "end_time": "6/1/22 7:59",
+    "fixed_problem": "f",
+    "uid__1": 8315,
+    "uid__2": 1228
+  },
+  {
+    "uid": 9712,
+    "location": "",
+    "start_time": "6/1/22 0:58",
+    "end_time": "6/1/22 6:28",
+    "fixed_problem": "f",
+    "uid__1": 8400,
+    "uid__2": 723
+  },
+  {
+    "uid": 9713,
+    "location": "",
+    "start_time": "6/1/22 0:47",
+    "end_time": "5/31/22 22:37",
+    "fixed_problem": "f",
+    "uid__1": 8028,
+    "uid__2": 718
+  },
+  {
+    "uid": 9714,
+    "location": "",
+    "start_time": "6/1/22 10:34",
+    "end_time": "6/1/22 3:33",
+    "fixed_problem": "f",
+    "uid__1": 8422,
+    "uid__2": 741
+  },
+  {
+    "uid": 9715,
+    "location": "",
+    "start_time": "6/1/22 7:11",
+    "end_time": "6/1/22 2:36",
+    "fixed_problem": "t",
+    "uid__1": 8401,
+    "uid__2": 754
+  },
+  {
+    "uid": 9716,
+    "location": "",
+    "start_time": "6/1/22 0:04",
+    "end_time": "6/1/22 11:35",
+    "fixed_problem": "t",
+    "uid__1": 8166,
+    "uid__2": 1133
+  },
+  {
+    "uid": 9717,
+    "location": "",
+    "start_time": "5/31/22 22:46",
+    "end_time": "6/1/22 19:09",
+    "fixed_problem": "f",
+    "uid__1": 8972,
+    "uid__2": 1236
+  },
+  {
+    "uid": 9718,
+    "location": "",
+    "start_time": "6/1/22 1:10",
+    "end_time": "6/1/22 7:09",
+    "fixed_problem": "f",
+    "uid__1": 8166,
+    "uid__2": 1133
+  },
+  {
+    "uid": 9719,
+    "location": "",
+    "start_time": "6/1/22 7:13",
+    "end_time": "5/31/22 23:29",
+    "fixed_problem": "t",
+    "uid__1": 8335,
+    "uid__2": 1323
+  },
+  {
+    "uid": 9720,
+    "location": "",
+    "start_time": "5/31/22 21:33",
+    "end_time": "6/1/22 14:56",
+    "fixed_problem": "f",
+    "uid__1": 8682,
+    "uid__2": 926
+  },
+  {
+    "uid": 9721,
+    "location": "",
+    "start_time": "6/1/22 11:21",
+    "end_time": "6/1/22 15:07",
+    "fixed_problem": "f",
+    "uid__1": 8126,
+    "uid__2": 797
+  },
+  {
+    "uid": 9722,
+    "location": "",
+    "start_time": "5/31/22 21:31",
+    "end_time": "6/1/22 7:15",
+    "fixed_problem": "f",
+    "uid__1": 8152,
+    "uid__2": 916
+  },
+  {
+    "uid": 9723,
+    "location": "",
+    "start_time": "5/31/22 23:20",
+    "end_time": "5/31/22 22:03",
+    "fixed_problem": "f",
+    "uid__1": 8857,
+    "uid__2": 787
+  },
+  {
+    "uid": 9724,
+    "location": "",
+    "start_time": "6/1/22 0:35",
+    "end_time": "6/1/22 3:42",
+    "fixed_problem": "f",
+    "uid__1": 8576,
+    "uid__2": 910
+  },
+  {
+    "uid": 9725,
+    "location": "",
+    "start_time": "6/1/22 4:24",
+    "end_time": "6/1/22 9:03",
+    "fixed_problem": "t",
+    "uid__1": 8941,
+    "uid__2": 1018
+  },
+  {
+    "uid": 9726,
+    "location": "",
+    "start_time": "5/31/22 22:09",
+    "end_time": "6/1/22 11:12",
+    "fixed_problem": "f",
+    "uid__1": 8503,
+    "uid__2": 1164
+  },
+  {
+    "uid": 9727,
+    "location": "",
+    "start_time": "6/1/22 9:45",
+    "end_time": "6/1/22 19:02",
+    "fixed_problem": "t",
+    "uid__1": 8340,
+    "uid__2": 1275
+  },
+  {
+    "uid": 9728,
+    "location": "",
+    "start_time": "5/31/22 22:18",
+    "end_time": "6/1/22 5:12",
+    "fixed_problem": "t",
+    "uid__1": 8131,
+    "uid__2": 1168
+  },
+  {
+    "uid": 9729,
+    "location": "",
+    "start_time": "6/1/22 15:46",
+    "end_time": "6/1/22 11:39",
+    "fixed_problem": "t",
+    "uid__1": 8393,
+    "uid__2": 1219
+  },
+  {
+    "uid": 9730,
+    "location": "",
+    "start_time": "6/1/22 10:35",
+    "end_time": "6/1/22 8:55",
+    "fixed_problem": "t",
+    "uid__1": 8191,
+    "uid__2": 946
+  },
+  {
+    "uid": 9731,
+    "location": "",
+    "start_time": "6/1/22 14:45",
+    "end_time": "5/31/22 20:40",
+    "fixed_problem": "t",
+    "uid__1": 8612,
+    "uid__2": 1158
+  },
+  {
+    "uid": 9732,
+    "location": "",
+    "start_time": "6/1/22 18:08",
+    "end_time": "5/31/22 22:15",
+    "fixed_problem": "t",
+    "uid__1": 8278,
+    "uid__2": 859
+  },
+  {
+    "uid": 9733,
+    "location": "",
+    "start_time": "6/1/22 6:07",
+    "end_time": "6/1/22 12:58",
+    "fixed_problem": "t",
+    "uid__1": 8363,
+    "uid__2": 1004
+  },
+  {
+    "uid": 9734,
+    "location": "",
+    "start_time": "6/1/22 14:38",
+    "end_time": "6/1/22 1:43",
+    "fixed_problem": "t",
+    "uid__1": 8720,
+    "uid__2": 1299
+  },
+  {
+    "uid": 9735,
+    "location": "",
+    "start_time": "6/1/22 4:41",
+    "end_time": "6/1/22 10:23",
+    "fixed_problem": "t",
+    "uid__1": 8523,
+    "uid__2": 852
+  },
+  {
+    "uid": 9736,
+    "location": "",
+    "start_time": "6/1/22 3:29",
+    "end_time": "6/1/22 12:00",
+    "fixed_problem": "f",
+    "uid__1": 8996,
+    "uid__2": 885
+  },
+  {
+    "uid": 9737,
+    "location": "",
+    "start_time": "6/1/22 14:48",
+    "end_time": "6/1/22 4:04",
+    "fixed_problem": "f",
+    "uid__1": 8061,
+    "uid__2": 1130
+  },
+  {
+    "uid": 9738,
+    "location": "",
+    "start_time": "6/1/22 8:00",
+    "end_time": "5/31/22 23:27",
+    "fixed_problem": "f",
+    "uid__1": 8888,
+    "uid__2": 1160
+  },
+  {
+    "uid": 9739,
+    "location": "",
+    "start_time": "5/31/22 23:13",
+    "end_time": "6/1/22 14:03",
+    "fixed_problem": "f",
+    "uid__1": 8599,
+    "uid__2": 975
+  },
+  {
+    "uid": 9740,
+    "location": "",
+    "start_time": "6/1/22 5:22",
+    "end_time": "5/31/22 22:02",
+    "fixed_problem": "t",
+    "uid__1": 8028,
+    "uid__2": 718
+  },
+  {
+    "uid": 9741,
+    "location": "",
+    "start_time": "5/31/22 23:17",
+    "end_time": "6/1/22 2:50",
+    "fixed_problem": "f",
+    "uid__1": 8294,
+    "uid__2": 818
+  },
+  {
+    "uid": 9742,
+    "location": "",
+    "start_time": "5/31/22 22:35",
+    "end_time": "6/1/22 9:40",
+    "fixed_problem": "f",
+    "uid__1": 8509,
+    "uid__2": 1285
+  },
+  {
+    "uid": 9743,
+    "location": "",
+    "start_time": "6/1/22 8:59",
+    "end_time": "6/1/22 8:11",
+    "fixed_problem": "f",
+    "uid__1": 9014,
+    "uid__2": 1267
+  },
+  {
+    "uid": 9744,
+    "location": "",
+    "start_time": "6/1/22 9:08",
+    "end_time": "6/1/22 0:12",
+    "fixed_problem": "t",
+    "uid__1": 8750,
+    "uid__2": 842
+  },
+  {
+    "uid": 9745,
+    "location": "",
+    "start_time": "6/1/22 12:22",
+    "end_time": "6/1/22 4:45",
+    "fixed_problem": "f",
+    "uid__1": 8173,
+    "uid__2": 1012
+  },
+  {
+    "uid": 9746,
+    "location": "",
+    "start_time": "6/1/22 18:47",
+    "end_time": "6/1/22 7:55",
+    "fixed_problem": "f",
+    "uid__1": 8556,
+    "uid__2": 1260
+  },
+  {
+    "uid": 9747,
+    "location": "",
+    "start_time": "6/1/22 9:46",
+    "end_time": "6/1/22 3:56",
+    "fixed_problem": "f",
+    "uid__1": 8971,
+    "uid__2": 1023
+  },
+  {
+    "uid": 9748,
+    "location": "",
+    "start_time": "6/1/22 3:30",
+    "end_time": "6/1/22 19:03",
+    "fixed_problem": "f",
+    "uid__1": 8619,
+    "uid__2": 798
+  },
+  {
+    "uid": 9749,
+    "location": "",
+    "start_time": "5/31/22 23:42",
+    "end_time": "6/1/22 12:59",
+    "fixed_problem": "f",
+    "uid__1": 8663,
+    "uid__2": 1280
+  },
+  {
+    "uid": 9750,
+    "location": "",
+    "start_time": "6/1/22 6:04",
+    "end_time": "5/31/22 22:30",
+    "fixed_problem": "t",
+    "uid__1": 8790,
+    "uid__2": 823
+  },
+  {
+    "uid": 9751,
+    "location": "",
+    "start_time": "6/1/22 15:18",
+    "end_time": "6/1/22 13:26",
+    "fixed_problem": "t",
+    "uid__1": 8475,
+    "uid__2": 1206
+  },
+  {
+    "uid": 9752,
+    "location": "",
+    "start_time": "6/1/22 15:15",
+    "end_time": "6/1/22 18:43",
+    "fixed_problem": "f",
+    "uid__1": 8597,
+    "uid__2": 809
+  },
+  {
+    "uid": 9753,
+    "location": "",
+    "start_time": "6/1/22 3:24",
+    "end_time": "6/1/22 19:17",
+    "fixed_problem": "f",
+    "uid__1": 8220,
+    "uid__2": 719
+  },
+  {
+    "uid": 9754,
+    "location": "",
+    "start_time": "6/1/22 8:14",
+    "end_time": "6/1/22 1:34",
+    "fixed_problem": "f",
+    "uid__1": 8406,
+    "uid__2": 827
+  },
+  {
+    "uid": 9755,
+    "location": "",
+    "start_time": "6/1/22 9:53",
+    "end_time": "6/1/22 10:37",
+    "fixed_problem": "t",
+    "uid__1": 8092,
+    "uid__2": 1162
+  },
+  {
+    "uid": 9756,
+    "location": "",
+    "start_time": "6/1/22 6:27",
+    "end_time": "6/1/22 5:11",
+    "fixed_problem": "f",
+    "uid__1": 8229,
+    "uid__2": 713
+  },
+  {
+    "uid": 9757,
+    "location": "",
+    "start_time": "6/1/22 4:47",
+    "end_time": "6/1/22 13:35",
+    "fixed_problem": "f",
+    "uid__1": 8590,
+    "uid__2": 1228
+  },
+  {
+    "uid": 9758,
+    "location": "",
+    "start_time": "6/1/22 4:13",
+    "end_time": "5/31/22 22:26",
+    "fixed_problem": "t",
+    "uid__1": 8917,
+    "uid__2": 679
+  },
+  {
+    "uid": 9759,
+    "location": "",
+    "start_time": "5/31/22 21:36",
+    "end_time": "5/31/22 23:57",
+    "fixed_problem": "t",
+    "uid__1": 8644,
+    "uid__2": 1194
+  },
+  {
+    "uid": 9760,
+    "location": "",
+    "start_time": "6/1/22 17:29",
+    "end_time": "6/1/22 16:39",
+    "fixed_problem": "f",
+    "uid__1": 8889,
+    "uid__2": 839
+  },
+  {
+    "uid": 9761,
+    "location": "",
+    "start_time": "6/1/22 1:42",
+    "end_time": "6/1/22 18:36",
+    "fixed_problem": "t",
+    "uid__1": 8327,
+    "uid__2": 1074
+  },
+  {
+    "uid": 9762,
+    "location": "",
+    "start_time": "6/1/22 18:12",
+    "end_time": "6/1/22 0:49",
+    "fixed_problem": "f",
+    "uid__1": 8490,
+    "uid__2": 832
+  },
+  {
+    "uid": 9763,
+    "location": "",
+    "start_time": "6/1/22 15:26",
+    "end_time": "6/1/22 15:50",
+    "fixed_problem": "f",
+    "uid__1": 8587,
+    "uid__2": 852
+  },
+  {
+    "uid": 9764,
+    "location": "",
+    "start_time": "6/1/22 0:51",
+    "end_time": "6/1/22 0:49",
+    "fixed_problem": "t",
+    "uid__1": 8666,
+    "uid__2": 944
+  },
+  {
+    "uid": 9765,
+    "location": "",
+    "start_time": "6/1/22 11:22",
+    "end_time": "5/31/22 21:11",
+    "fixed_problem": "f",
+    "uid__1": 8708,
+    "uid__2": 1117
+  },
+  {
+    "uid": 9766,
+    "location": "",
+    "start_time": "6/1/22 3:11",
+    "end_time": "6/1/22 6:12",
+    "fixed_problem": "t",
+    "uid__1": 8784,
+    "uid__2": 1213
+  },
+  {
+    "uid": 9767,
+    "location": "",
+    "start_time": "6/1/22 0:54",
+    "end_time": "6/1/22 11:54",
+    "fixed_problem": "t",
+    "uid__1": 8545,
+    "uid__2": 1097
+  },
+  {
+    "uid": 9768,
+    "location": "",
+    "start_time": "5/31/22 22:55",
+    "end_time": "5/31/22 20:41",
+    "fixed_problem": "t",
+    "uid__1": 8755,
+    "uid__2": 1205
+  },
+  {
+    "uid": 9769,
+    "location": "",
+    "start_time": "6/1/22 17:31",
+    "end_time": "6/1/22 3:49",
+    "fixed_problem": "t",
+    "uid__1": 8641,
+    "uid__2": 911
+  },
+  {
+    "uid": 9770,
+    "location": "",
+    "start_time": "6/1/22 5:55",
+    "end_time": "5/31/22 20:13",
+    "fixed_problem": "f",
+    "uid__1": 8071,
+    "uid__2": 1250
+  },
+  {
+    "uid": 9771,
+    "location": "",
+    "start_time": "6/1/22 16:18",
+    "end_time": "6/1/22 5:25",
+    "fixed_problem": "t",
+    "uid__1": 8242,
+    "uid__2": 1069
+  },
+  {
+    "uid": 9772,
+    "location": "",
+    "start_time": "6/1/22 4:25",
+    "end_time": "6/1/22 14:33",
+    "fixed_problem": "t",
+    "uid__1": 8218,
+    "uid__2": 980
+  },
+  {
+    "uid": 9773,
+    "location": "",
+    "start_time": "5/31/22 23:09",
+    "end_time": "6/1/22 10:22",
+    "fixed_problem": "t",
+    "uid__1": 8221,
+    "uid__2": 1038
+  },
+  {
+    "uid": 9774,
+    "location": "",
+    "start_time": "6/1/22 3:32",
+    "end_time": "5/31/22 23:34",
+    "fixed_problem": "t",
+    "uid__1": 8606,
+    "uid__2": 799
+  },
+  {
+    "uid": 9775,
+    "location": "",
+    "start_time": "5/31/22 23:33",
+    "end_time": "6/1/22 12:15",
+    "fixed_problem": "t",
+    "uid__1": 9011,
+    "uid__2": 767
+  },
+  {
+    "uid": 9776,
+    "location": "",
+    "start_time": "6/1/22 0:01",
+    "end_time": "6/1/22 18:58",
+    "fixed_problem": "f",
+    "uid__1": 8941,
+    "uid__2": 1018
+  },
+  {
+    "uid": 9777,
+    "location": "",
+    "start_time": "6/1/22 7:30",
+    "end_time": "6/1/22 19:44",
+    "fixed_problem": "t",
+    "uid__1": 8649,
+    "uid__2": 798
+  },
+  {
+    "uid": 9778,
+    "location": "",
+    "start_time": "6/1/22 16:33",
+    "end_time": "5/31/22 23:52",
+    "fixed_problem": "f",
+    "uid__1": 8834,
+    "uid__2": 877
+  },
+  {
+    "uid": 9779,
+    "location": "",
+    "start_time": "6/1/22 7:25",
+    "end_time": "6/1/22 13:44",
+    "fixed_problem": "t",
+    "uid__1": 8456,
+    "uid__2": 1053
+  },
+  {
+    "uid": 9780,
+    "location": "",
+    "start_time": "5/31/22 23:12",
+    "end_time": "6/1/22 9:36",
+    "fixed_problem": "f",
+    "uid__1": 8260,
+    "uid__2": 832
+  },
+  {
+    "uid": 9781,
+    "location": "",
+    "start_time": "6/1/22 14:26",
+    "end_time": "6/1/22 1:17",
+    "fixed_problem": "f",
+    "uid__1": 8631,
+    "uid__2": 875
+  },
+  {
+    "uid": 9782,
+    "location": "",
+    "start_time": "5/31/22 20:28",
+    "end_time": "5/31/22 23:50",
+    "fixed_problem": "f",
+    "uid__1": 8339,
+    "uid__2": 941
+  },
+  {
+    "uid": 9783,
+    "location": "",
+    "start_time": "6/1/22 9:33",
+    "end_time": "6/1/22 2:27",
+    "fixed_problem": "t",
+    "uid__1": 8560,
+    "uid__2": 853
+  },
+  {
+    "uid": 9784,
+    "location": "",
+    "start_time": "6/1/22 12:46",
+    "end_time": "6/1/22 7:32",
+    "fixed_problem": "f",
+    "uid__1": 8743,
+    "uid__2": 692
+  },
+  {
+    "uid": 9785,
+    "location": "",
+    "start_time": "6/1/22 8:56",
+    "end_time": "6/1/22 6:33",
+    "fixed_problem": "t",
+    "uid__1": 8941,
+    "uid__2": 1018
+  },
+  {
+    "uid": 9786,
+    "location": "",
+    "start_time": "6/1/22 6:13",
+    "end_time": "6/1/22 17:50",
+    "fixed_problem": "f",
+    "uid__1": 8389,
+    "uid__2": 860
+  },
+  {
+    "uid": 9787,
+    "location": "",
+    "start_time": "6/1/22 12:10",
+    "end_time": "6/1/22 14:41",
+    "fixed_problem": "f",
+    "uid__1": 8827,
+    "uid__2": 688
+  },
+  {
+    "uid": 9788,
+    "location": "",
+    "start_time": "6/1/22 0:07",
+    "end_time": "6/1/22 2:26",
+    "fixed_problem": "f",
+    "uid__1": 8779,
+    "uid__2": 997
+  },
+  {
+    "uid": 9789,
+    "location": "",
+    "start_time": "5/31/22 22:24",
+    "end_time": "6/1/22 6:39",
+    "fixed_problem": "f",
+    "uid__1": 8831,
+    "uid__2": 751
+  },
+  {
+    "uid": 9790,
+    "location": "",
+    "start_time": "6/1/22 2:38",
+    "end_time": "6/1/22 0:42",
+    "fixed_problem": "f",
+    "uid__1": 8987,
+    "uid__2": 1200
+  },
+  {
+    "uid": 9791,
+    "location": "",
+    "start_time": "6/1/22 18:07",
+    "end_time": "5/31/22 21:08",
+    "fixed_problem": "f",
+    "uid__1": 8406,
+    "uid__2": 827
+  },
+  {
+    "uid": 9792,
+    "location": "",
+    "start_time": "6/1/22 18:39",
+    "end_time": "6/1/22 0:51",
+    "fixed_problem": "f",
+    "uid__1": 8475,
+    "uid__2": 1206
+  },
+  {
+    "uid": 9793,
+    "location": "",
+    "start_time": "6/1/22 10:11",
+    "end_time": "6/1/22 8:44",
+    "fixed_problem": "t",
+    "uid__1": 8914,
+    "uid__2": 1075
+  },
+  {
+    "uid": 9794,
+    "location": "",
+    "start_time": "6/1/22 12:01",
+    "end_time": "6/1/22 6:09",
+    "fixed_problem": "f",
+    "uid__1": 8036,
+    "uid__2": 711
+  },
+  {
+    "uid": 9795,
+    "location": "",
+    "start_time": "6/1/22 3:43",
+    "end_time": "6/1/22 5:35",
+    "fixed_problem": "t",
+    "uid__1": 8682,
+    "uid__2": 926
+  },
+  {
+    "uid": 9796,
+    "location": "",
+    "start_time": "6/1/22 13:30",
+    "end_time": "6/1/22 10:04",
+    "fixed_problem": "f",
+    "uid__1": 8184,
+    "uid__2": 1021
+  },
+  {
+    "uid": 9797,
+    "location": "",
+    "start_time": "6/1/22 9:44",
+    "end_time": "6/1/22 3:42",
+    "fixed_problem": "t",
+    "uid__1": 8583,
+    "uid__2": 837
+  },
+  {
+    "uid": 9798,
+    "location": "",
+    "start_time": "6/1/22 6:51",
+    "end_time": "6/1/22 19:54",
+    "fixed_problem": "t",
+    "uid__1": 8170,
+    "uid__2": 830
+  },
+  {
+    "uid": 9799,
+    "location": "",
+    "start_time": "6/1/22 6:59",
+    "end_time": "6/1/22 14:19",
+    "fixed_problem": "t",
+    "uid__1": 8906,
+    "uid__2": 1078
+  },
+  {
+    "uid": 9800,
+    "location": "",
+    "start_time": "6/1/22 15:52",
+    "end_time": "6/1/22 6:02",
+    "fixed_problem": "t",
+    "uid__1": 8690,
+    "uid__2": 1267
+  },
+  {
+    "uid": 9801,
+    "location": "",
+    "start_time": "6/1/22 8:49",
+    "end_time": "6/1/22 4:41",
+    "fixed_problem": "f",
+    "uid__1": 8642,
+    "uid__2": 1199
+  },
+  {
+    "uid": 9802,
+    "location": "",
+    "start_time": "6/1/22 7:17",
+    "end_time": "6/1/22 2:25",
+    "fixed_problem": "t",
+    "uid__1": 8029,
+    "uid__2": 1136
+  },
+  {
+    "uid": 9803,
+    "location": "",
+    "start_time": "6/1/22 12:15",
+    "end_time": "6/1/22 0:13",
+    "fixed_problem": "t",
+    "uid__1": 8593,
+    "uid__2": 960
+  },
+  {
+    "uid": 9804,
+    "location": "",
+    "start_time": "6/1/22 14:35",
+    "end_time": "6/1/22 9:19",
+    "fixed_problem": "t",
+    "uid__1": 8608,
+    "uid__2": 775
+  },
+  {
+    "uid": 9805,
+    "location": "",
+    "start_time": "6/1/22 0:27",
+    "end_time": "6/1/22 5:24",
+    "fixed_problem": "f",
+    "uid__1": 8410,
+    "uid__2": 1060
+  },
+  {
+    "uid": 9806,
+    "location": "",
+    "start_time": "6/1/22 13:40",
+    "end_time": "6/1/22 19:38",
+    "fixed_problem": "t",
+    "uid__1": 8902,
+    "uid__2": 1051
+  },
+  {
+    "uid": 9807,
+    "location": "",
+    "start_time": "6/1/22 2:36",
+    "end_time": "6/1/22 5:51",
+    "fixed_problem": "f",
+    "uid__1": 8795,
+    "uid__2": 777
+  },
+  {
+    "uid": 9808,
+    "location": "",
+    "start_time": "5/31/22 21:19",
+    "end_time": "6/1/22 14:38",
+    "fixed_problem": "f",
+    "uid__1": 8352,
+    "uid__2": 747
+  },
+  {
+    "uid": 9809,
+    "location": "",
+    "start_time": "6/1/22 6:02",
+    "end_time": "5/31/22 22:05",
+    "fixed_problem": "t",
+    "uid__1": 8938,
+    "uid__2": 805
+  },
+  {
+    "uid": 9810,
+    "location": "",
+    "start_time": "6/1/22 2:51",
+    "end_time": "6/1/22 15:22",
+    "fixed_problem": "f",
+    "uid__1": 8230,
+    "uid__2": 869
+  },
+  {
+    "uid": 9811,
+    "location": "",
+    "start_time": "6/1/22 17:29",
+    "end_time": "6/1/22 5:44",
+    "fixed_problem": "f",
+    "uid__1": 8932,
+    "uid__2": 781
+  },
+  {
+    "uid": 9812,
+    "location": "",
+    "start_time": "6/1/22 6:02",
+    "end_time": "6/1/22 4:38",
+    "fixed_problem": "t",
+    "uid__1": 8040,
+    "uid__2": 897
+  },
+  {
+    "uid": 9813,
+    "location": "",
+    "start_time": "6/1/22 10:36",
+    "end_time": "6/1/22 2:11",
+    "fixed_problem": "t",
+    "uid__1": 8927,
+    "uid__2": 1106
+  },
+  {
+    "uid": 9814,
+    "location": "",
+    "start_time": "6/1/22 19:12",
+    "end_time": "6/1/22 10:42",
+    "fixed_problem": "f",
+    "uid__1": 8881,
+    "uid__2": 995
+  },
+  {
+    "uid": 9815,
+    "location": "",
+    "start_time": "6/1/22 17:07",
+    "end_time": "6/1/22 7:42",
+    "fixed_problem": "f",
+    "uid__1": 8171,
+    "uid__2": 847
+  },
+  {
+    "uid": 9816,
+    "location": "",
+    "start_time": "6/1/22 14:56",
+    "end_time": "6/1/22 16:22",
+    "fixed_problem": "f",
+    "uid__1": 8288,
+    "uid__2": 811
+  },
+  {
+    "uid": 9817,
+    "location": "",
+    "start_time": "6/1/22 10:36",
+    "end_time": "6/1/22 11:59",
+    "fixed_problem": "t",
+    "uid__1": 8949,
+    "uid__2": 803
+  },
+  {
+    "uid": 9818,
+    "location": "",
+    "start_time": "6/1/22 8:27",
+    "end_time": "5/31/22 21:13",
+    "fixed_problem": "f",
+    "uid__1": 8255,
+    "uid__2": 963
+  },
+  {
+    "uid": 9819,
+    "location": "",
+    "start_time": "6/1/22 11:45",
+    "end_time": "6/1/22 14:33",
+    "fixed_problem": "f",
+    "uid__1": 8723,
+    "uid__2": 1158
+  },
+  {
+    "uid": 9820,
+    "location": "",
+    "start_time": "6/1/22 9:18",
+    "end_time": "5/31/22 20:52",
+    "fixed_problem": "f",
+    "uid__1": 8384,
+    "uid__2": 1041
+  },
+  {
+    "uid": 9821,
+    "location": "",
+    "start_time": "6/1/22 19:40",
+    "end_time": "6/1/22 6:54",
+    "fixed_problem": "f",
+    "uid__1": 8347,
+    "uid__2": 752
+  },
+  {
+    "uid": 9822,
+    "location": "",
+    "start_time": "6/1/22 18:42",
+    "end_time": "5/31/22 23:36",
+    "fixed_problem": "f",
+    "uid__1": 8317,
+    "uid__2": 1176
+  },
+  {
+    "uid": 9823,
+    "location": "",
+    "start_time": "5/31/22 21:13",
+    "end_time": "5/31/22 21:49",
+    "fixed_problem": "t",
+    "uid__1": 8478,
+    "uid__2": 904
+  },
+  {
+    "uid": 9824,
+    "location": "",
+    "start_time": "6/1/22 7:59",
+    "end_time": "5/31/22 20:53",
+    "fixed_problem": "f",
+    "uid__1": 8144,
+    "uid__2": 697
+  },
+  {
+    "uid": 9825,
+    "location": "",
+    "start_time": "6/1/22 14:27",
+    "end_time": "6/1/22 12:12",
+    "fixed_problem": "f",
+    "uid__1": 8123,
+    "uid__2": 983
+  },
+  {
+    "uid": 9826,
+    "location": "",
+    "start_time": "5/31/22 21:01",
+    "end_time": "6/1/22 16:54",
+    "fixed_problem": "t",
+    "uid__1": 8877,
+    "uid__2": 899
+  },
+  {
+    "uid": 9827,
+    "location": "",
+    "start_time": "6/1/22 6:05",
+    "end_time": "6/1/22 15:52",
+    "fixed_problem": "t",
+    "uid__1": 8508,
+    "uid__2": 694
+  },
+  {
+    "uid": 9828,
+    "location": "",
+    "start_time": "5/31/22 20:15",
+    "end_time": "6/1/22 2:04",
+    "fixed_problem": "t",
+    "uid__1": 8079,
+    "uid__2": 840
+  },
+  {
+    "uid": 9829,
+    "location": "",
+    "start_time": "6/1/22 14:15",
+    "end_time": "6/1/22 8:07",
+    "fixed_problem": "t",
+    "uid__1": 8745,
+    "uid__2": 703
+  },
+  {
+    "uid": 9830,
+    "location": "",
+    "start_time": "6/1/22 1:20",
+    "end_time": "6/1/22 10:27",
+    "fixed_problem": "f",
+    "uid__1": 8539,
+    "uid__2": 711
+  },
+  {
+    "uid": 9831,
+    "location": "",
+    "start_time": "5/31/22 20:09",
+    "end_time": "6/1/22 17:06",
+    "fixed_problem": "f",
+    "uid__1": 8946,
+    "uid__2": 1266
+  },
+  {
+    "uid": 9832,
+    "location": "",
+    "start_time": "5/31/22 23:37",
+    "end_time": "6/1/22 18:17",
+    "fixed_problem": "t",
+    "uid__1": 8780,
+    "uid__2": 1151
+  },
+  {
+    "uid": 9833,
+    "location": "",
+    "start_time": "6/1/22 13:52",
+    "end_time": "6/1/22 15:16",
+    "fixed_problem": "t",
+    "uid__1": 8242,
+    "uid__2": 1069
+  },
+  {
+    "uid": 9834,
+    "location": "",
+    "start_time": "6/1/22 11:22",
+    "end_time": "6/1/22 10:20",
+    "fixed_problem": "f",
+    "uid__1": 8559,
+    "uid__2": 712
+  },
+  {
+    "uid": 9835,
+    "location": "",
+    "start_time": "6/1/22 5:33",
+    "end_time": "6/1/22 19:43",
+    "fixed_problem": "f",
+    "uid__1": 8589,
+    "uid__2": 1341
+  },
+  {
+    "uid": 9836,
+    "location": "",
+    "start_time": "6/1/22 5:35",
+    "end_time": "6/1/22 15:27",
+    "fixed_problem": "f",
+    "uid__1": 8479,
+    "uid__2": 895
+  },
+  {
+    "uid": 9837,
+    "location": "",
+    "start_time": "6/1/22 14:28",
+    "end_time": "6/1/22 5:40",
+    "fixed_problem": "f",
+    "uid__1": 8940,
+    "uid__2": 678
+  },
+  {
+    "uid": 9838,
+    "location": "",
+    "start_time": "6/1/22 11:21",
+    "end_time": "6/1/22 11:35",
+    "fixed_problem": "f",
+    "uid__1": 8610,
+    "uid__2": 1055
+  },
+  {
+    "uid": 9839,
+    "location": "",
+    "start_time": "6/1/22 3:41",
+    "end_time": "6/1/22 5:43",
+    "fixed_problem": "t",
+    "uid__1": 8840,
+    "uid__2": 694
+  },
+  {
+    "uid": 9840,
+    "location": "",
+    "start_time": "6/1/22 1:49",
+    "end_time": "6/1/22 2:38",
+    "fixed_problem": "f",
+    "uid__1": 8179,
+    "uid__2": 730
+  },
+  {
+    "uid": 9841,
+    "location": "",
+    "start_time": "6/1/22 16:07",
+    "end_time": "6/1/22 8:09",
+    "fixed_problem": "f",
+    "uid__1": 8359,
+    "uid__2": 1270
+  },
+  {
+    "uid": 9842,
+    "location": "",
+    "start_time": "6/1/22 15:35",
+    "end_time": "6/1/22 7:08",
+    "fixed_problem": "t",
+    "uid__1": 8845,
+    "uid__2": 699
+  },
+  {
+    "uid": 9843,
+    "location": "",
+    "start_time": "6/1/22 3:07",
+    "end_time": "6/1/22 4:06",
+    "fixed_problem": "t",
+    "uid__1": 8170,
+    "uid__2": 830
+  },
+  {
+    "uid": 9844,
+    "location": "",
+    "start_time": "6/1/22 6:44",
+    "end_time": "6/1/22 4:33",
+    "fixed_problem": "t",
+    "uid__1": 8825,
+    "uid__2": 1048
+  },
+  {
+    "uid": 9845,
+    "location": "",
+    "start_time": "6/1/22 15:56",
+    "end_time": "6/1/22 16:00",
+    "fixed_problem": "f",
+    "uid__1": 8687,
+    "uid__2": 1192
+  },
+  {
+    "uid": 9846,
+    "location": "",
+    "start_time": "6/1/22 17:51",
+    "end_time": "6/1/22 0:32",
+    "fixed_problem": "t",
+    "uid__1": 8866,
+    "uid__2": 1311
+  },
+  {
+    "uid": 9847,
+    "location": "",
+    "start_time": "5/31/22 21:30",
+    "end_time": "6/1/22 8:00",
+    "fixed_problem": "f",
+    "uid__1": 8671,
+    "uid__2": 1194
+  },
+  {
+    "uid": 9848,
+    "location": "",
+    "start_time": "6/1/22 16:17",
+    "end_time": "6/1/22 3:45",
+    "fixed_problem": "t",
+    "uid__1": 8589,
+    "uid__2": 1341
+  },
+  {
+    "uid": 9849,
+    "location": "",
+    "start_time": "6/1/22 9:09",
+    "end_time": "6/1/22 6:33",
+    "fixed_problem": "t",
+    "uid__1": 8184,
+    "uid__2": 1021
+  },
+  {
+    "uid": 9850,
+    "location": "",
+    "start_time": "6/1/22 18:35",
+    "end_time": "5/31/22 23:14",
+    "fixed_problem": "f",
+    "uid__1": 8751,
+    "uid__2": 812
+  },
+  {
+    "uid": 9851,
+    "location": "",
+    "start_time": "6/1/22 5:53",
+    "end_time": "6/1/22 19:01",
+    "fixed_problem": "f",
+    "uid__1": 8962,
+    "uid__2": 1010
+  },
+  {
+    "uid": 9852,
+    "location": "",
+    "start_time": "5/31/22 20:11",
+    "end_time": "6/1/22 1:40",
+    "fixed_problem": "f",
+    "uid__1": 8062,
+    "uid__2": 837
+  },
+  {
+    "uid": 9853,
+    "location": "",
+    "start_time": "6/1/22 10:20",
+    "end_time": "6/1/22 18:02",
+    "fixed_problem": "t",
+    "uid__1": 8043,
+    "uid__2": 1179
+  },
+  {
+    "uid": 9854,
+    "location": "",
+    "start_time": "6/1/22 2:50",
+    "end_time": "6/1/22 12:54",
+    "fixed_problem": "t",
+    "uid__1": 8261,
+    "uid__2": 1107
+  },
+  {
+    "uid": 9855,
+    "location": "",
+    "start_time": "6/1/22 10:13",
+    "end_time": "6/1/22 6:37",
+    "fixed_problem": "t",
+    "uid__1": 8357,
+    "uid__2": 778
+  },
+  {
+    "uid": 9856,
+    "location": "",
+    "start_time": "5/31/22 21:35",
+    "end_time": "6/1/22 12:01",
+    "fixed_problem": "t",
+    "uid__1": 8465,
+    "uid__2": 874
+  },
+  {
+    "uid": 9857,
+    "location": "",
+    "start_time": "6/1/22 9:34",
+    "end_time": "6/1/22 9:30",
+    "fixed_problem": "t",
+    "uid__1": 8998,
+    "uid__2": 1018
+  },
+  {
+    "uid": 9858,
+    "location": "",
+    "start_time": "6/1/22 12:44",
+    "end_time": "5/31/22 20:55",
+    "fixed_problem": "f",
+    "uid__1": 8194,
+    "uid__2": 877
+  },
+  {
+    "uid": 9859,
+    "location": "",
+    "start_time": "6/1/22 3:58",
+    "end_time": "5/31/22 22:41",
+    "fixed_problem": "f",
+    "uid__1": 8212,
+    "uid__2": 717
+  },
+  {
+    "uid": 9860,
+    "location": "",
+    "start_time": "6/1/22 11:48",
+    "end_time": "6/1/22 1:40",
+    "fixed_problem": "t",
+    "uid__1": 8708,
+    "uid__2": 1117
+  },
+  {
+    "uid": 9861,
+    "location": "",
+    "start_time": "6/1/22 16:34",
+    "end_time": "5/31/22 21:59",
+    "fixed_problem": "t",
+    "uid__1": 8240,
+    "uid__2": 1182
+  },
+  {
+    "uid": 9862,
+    "location": "",
+    "start_time": "6/1/22 5:22",
+    "end_time": "5/31/22 23:47",
+    "fixed_problem": "f",
+    "uid__1": 8613,
+    "uid__2": 1190
+  },
+  {
+    "uid": 9863,
+    "location": "",
+    "start_time": "6/1/22 4:45",
+    "end_time": "6/1/22 14:07",
+    "fixed_problem": "t",
+    "uid__1": 8046,
+    "uid__2": 1159
+  },
+  {
+    "uid": 9864,
+    "location": "",
+    "start_time": "6/1/22 4:05",
+    "end_time": "6/1/22 3:47",
+    "fixed_problem": "t",
+    "uid__1": 8560,
+    "uid__2": 853
+  },
+  {
+    "uid": 9865,
+    "location": "",
+    "start_time": "6/1/22 16:59",
+    "end_time": "6/1/22 8:25",
+    "fixed_problem": "f",
+    "uid__1": 8494,
+    "uid__2": 1207
+  },
+  {
+    "uid": 9866,
+    "location": "",
+    "start_time": "5/31/22 20:37",
+    "end_time": "6/1/22 16:33",
+    "fixed_problem": "t",
+    "uid__1": 8221,
+    "uid__2": 1038
+  },
+  {
+    "uid": 9867,
+    "location": "",
+    "start_time": "5/31/22 22:10",
+    "end_time": "6/1/22 19:42",
+    "fixed_problem": "f",
+    "uid__1": 8472,
+    "uid__2": 1229
+  },
+  {
+    "uid": 9868,
+    "location": "",
+    "start_time": "6/1/22 8:41",
+    "end_time": "6/1/22 9:59",
+    "fixed_problem": "f",
+    "uid__1": 8259,
+    "uid__2": 1041
+  },
+  {
+    "uid": 9869,
+    "location": "",
+    "start_time": "6/1/22 11:40",
+    "end_time": "6/1/22 10:03",
+    "fixed_problem": "t",
+    "uid__1": 8521,
+    "uid__2": 1256
+  },
+  {
+    "uid": 9870,
+    "location": "",
+    "start_time": "6/1/22 5:21",
+    "end_time": "6/1/22 20:01",
+    "fixed_problem": "t",
+    "uid__1": 8376,
+    "uid__2": 945
+  },
+  {
+    "uid": 9871,
+    "location": "",
+    "start_time": "6/1/22 5:06",
+    "end_time": "6/1/22 2:55",
+    "fixed_problem": "t",
+    "uid__1": 8566,
+    "uid__2": 865
+  },
+  {
+    "uid": 9872,
+    "location": "",
+    "start_time": "6/1/22 0:39",
+    "end_time": "6/1/22 1:16",
+    "fixed_problem": "t",
+    "uid__1": 8509,
+    "uid__2": 1285
+  },
+  {
+    "uid": 9873,
+    "location": "",
+    "start_time": "6/1/22 0:49",
+    "end_time": "6/1/22 0:51",
+    "fixed_problem": "f",
+    "uid__1": 8378,
+    "uid__2": 1117
+  },
+  {
+    "uid": 9874,
+    "location": "",
+    "start_time": "5/31/22 20:12",
+    "end_time": "6/1/22 0:05",
+    "fixed_problem": "f",
+    "uid__1": 8210,
+    "uid__2": 1157
+  },
+  {
+    "uid": 9875,
+    "location": "",
+    "start_time": "5/31/22 23:38",
+    "end_time": "6/1/22 4:01",
+    "fixed_problem": "f",
+    "uid__1": 8277,
+    "uid__2": 846
+  },
+  {
+    "uid": 9876,
+    "location": "",
+    "start_time": "5/31/22 21:04",
+    "end_time": "6/1/22 0:23",
+    "fixed_problem": "f",
+    "uid__1": 8113,
+    "uid__2": 1138
+  },
+  {
+    "uid": 9877,
+    "location": "",
+    "start_time": "6/1/22 17:00",
+    "end_time": "6/1/22 8:36",
+    "fixed_problem": "t",
+    "uid__1": 8852,
+    "uid__2": 778
+  },
+  {
+    "uid": 9878,
+    "location": "",
+    "start_time": "6/1/22 4:20",
+    "end_time": "6/1/22 15:08",
+    "fixed_problem": "t",
+    "uid__1": 8542,
+    "uid__2": 1269
+  },
+  {
+    "uid": 9879,
+    "location": "",
+    "start_time": "6/1/22 15:58",
+    "end_time": "6/1/22 10:22",
+    "fixed_problem": "f",
+    "uid__1": 8851,
+    "uid__2": 1221
+  },
+  {
+    "uid": 9880,
+    "location": "",
+    "start_time": "5/31/22 23:34",
+    "end_time": "6/1/22 0:45",
+    "fixed_problem": "t",
+    "uid__1": 8156,
+    "uid__2": 869
+  },
+  {
+    "uid": 9881,
+    "location": "",
+    "start_time": "5/31/22 22:21",
+    "end_time": "6/1/22 6:01",
+    "fixed_problem": "t",
+    "uid__1": 8710,
+    "uid__2": 687
+  },
+  {
+    "uid": 9882,
+    "location": "",
+    "start_time": "6/1/22 8:10",
+    "end_time": "6/1/22 6:08",
+    "fixed_problem": "t",
+    "uid__1": 8620,
+    "uid__2": 1128
+  },
+  {
+    "uid": 9883,
+    "location": "",
+    "start_time": "6/1/22 9:14",
+    "end_time": "6/1/22 7:09",
+    "fixed_problem": "t",
+    "uid__1": 8215,
+    "uid__2": 905
+  },
+  {
+    "uid": 9884,
+    "location": "",
+    "start_time": "6/1/22 10:28",
+    "end_time": "6/1/22 12:27",
+    "fixed_problem": "f",
+    "uid__1": 8113,
+    "uid__2": 1138
+  },
+  {
+    "uid": 9885,
+    "location": "",
+    "start_time": "6/1/22 2:13",
+    "end_time": "6/1/22 1:39",
+    "fixed_problem": "t",
+    "uid__1": 8870,
+    "uid__2": 695
+  },
+  {
+    "uid": 9886,
+    "location": "",
+    "start_time": "6/1/22 12:08",
+    "end_time": "6/1/22 14:10",
+    "fixed_problem": "t",
+    "uid__1": 8663,
+    "uid__2": 1280
+  },
+  {
+    "uid": 9887,
+    "location": "",
+    "start_time": "6/1/22 17:10",
+    "end_time": "6/1/22 15:18",
+    "fixed_problem": "f",
+    "uid__1": 8210,
+    "uid__2": 1157
+  },
+  {
+    "uid": 9888,
+    "location": "",
+    "start_time": "6/1/22 9:05",
+    "end_time": "6/1/22 14:40",
+    "fixed_problem": "f",
+    "uid__1": 8675,
+    "uid__2": 1107
+  },
+  {
+    "uid": 9889,
+    "location": "",
+    "start_time": "5/31/22 22:28",
+    "end_time": "6/1/22 11:46",
+    "fixed_problem": "f",
+    "uid__1": 8752,
+    "uid__2": 823
+  },
+  {
+    "uid": 9890,
+    "location": "",
+    "start_time": "6/1/22 6:29",
+    "end_time": "6/1/22 1:08",
+    "fixed_problem": "t",
+    "uid__1": 8150,
+    "uid__2": 1206
+  },
+  {
+    "uid": 9891,
+    "location": "",
+    "start_time": "6/1/22 0:49",
+    "end_time": "6/1/22 5:30",
+    "fixed_problem": "t",
+    "uid__1": 8194,
+    "uid__2": 877
+  },
+  {
+    "uid": 9892,
+    "location": "",
+    "start_time": "6/1/22 4:42",
+    "end_time": "6/1/22 13:52",
+    "fixed_problem": "f",
+    "uid__1": 8598,
+    "uid__2": 889
+  },
+  {
+    "uid": 9893,
+    "location": "",
+    "start_time": "6/1/22 6:45",
+    "end_time": "5/31/22 20:31",
+    "fixed_problem": "f",
+    "uid__1": 8389,
+    "uid__2": 860
+  },
+  {
+    "uid": 9894,
+    "location": "",
+    "start_time": "6/1/22 10:35",
+    "end_time": "5/31/22 20:13",
+    "fixed_problem": "f",
+    "uid__1": 8393,
+    "uid__2": 1219
+  },
+  {
+    "uid": 9895,
+    "location": "",
+    "start_time": "6/1/22 0:48",
+    "end_time": "6/1/22 17:51",
+    "fixed_problem": "t",
+    "uid__1": 8486,
+    "uid__2": 1177
+  },
+  {
+    "uid": 9896,
+    "location": "",
+    "start_time": "6/1/22 7:20",
+    "end_time": "6/1/22 11:06",
+    "fixed_problem": "t",
+    "uid__1": 8996,
+    "uid__2": 885
+  },
+  {
+    "uid": 9897,
+    "location": "",
+    "start_time": "6/1/22 8:12",
+    "end_time": "6/1/22 2:59",
+    "fixed_problem": "t",
+    "uid__1": 8896,
+    "uid__2": 769
+  },
+  {
+    "uid": 9898,
+    "location": "",
+    "start_time": "6/1/22 3:18",
+    "end_time": "5/31/22 21:24",
+    "fixed_problem": "f",
+    "uid__1": 8715,
+    "uid__2": 1316
+  },
+  {
+    "uid": 9899,
+    "location": "",
+    "start_time": "5/31/22 20:59",
+    "end_time": "6/1/22 4:44",
+    "fixed_problem": "f",
+    "uid__1": 8666,
+    "uid__2": 944
+  },
+  {
+    "uid": 9900,
+    "location": "",
+    "start_time": "6/1/22 6:58",
+    "end_time": "6/1/22 18:00",
+    "fixed_problem": "f",
+    "uid__1": 8303,
+    "uid__2": 726
+  },
+  {
+    "uid": 9901,
+    "location": "",
+    "start_time": "5/31/22 21:42",
+    "end_time": "6/1/22 10:28",
+    "fixed_problem": "f",
+    "uid__1": 8857,
+    "uid__2": 787
+  },
+  {
+    "uid": 9902,
+    "location": "",
+    "start_time": "6/1/22 8:40",
+    "end_time": "6/1/22 9:09",
+    "fixed_problem": "f",
+    "uid__1": 8178,
+    "uid__2": 1068
+  },
+  {
+    "uid": 9903,
+    "location": "",
+    "start_time": "6/1/22 1:31",
+    "end_time": "6/1/22 12:58",
+    "fixed_problem": "f",
+    "uid__1": 8118,
+    "uid__2": 908
+  },
+  {
+    "uid": 9904,
+    "location": "",
+    "start_time": "5/31/22 22:41",
+    "end_time": "6/1/22 15:41",
+    "fixed_problem": "f",
+    "uid__1": 8386,
+    "uid__2": 1113
+  },
+  {
+    "uid": 9905,
+    "location": "",
+    "start_time": "6/1/22 5:11",
+    "end_time": "6/1/22 7:55",
+    "fixed_problem": "f",
+    "uid__1": 8520,
+    "uid__2": 1103
+  },
+  {
+    "uid": 9906,
+    "location": "",
+    "start_time": "6/1/22 18:06",
+    "end_time": "6/1/22 16:31",
+    "fixed_problem": "t",
+    "uid__1": 8335,
+    "uid__2": 1323
+  },
+  {
+    "uid": 9907,
+    "location": "",
+    "start_time": "6/1/22 19:48",
+    "end_time": "6/1/22 1:45",
+    "fixed_problem": "t",
+    "uid__1": 8963,
+    "uid__2": 1147
+  },
+  {
+    "uid": 9908,
+    "location": "",
+    "start_time": "6/1/22 0:12",
+    "end_time": "5/31/22 23:32",
+    "fixed_problem": "t",
+    "uid__1": 8359,
+    "uid__2": 1270
+  },
+  {
+    "uid": 9909,
+    "location": "",
+    "start_time": "6/1/22 5:22",
+    "end_time": "6/1/22 10:06",
+    "fixed_problem": "f",
+    "uid__1": 8646,
+    "uid__2": 1089
+  },
+  {
+    "uid": 9910,
+    "location": "",
+    "start_time": "6/1/22 13:05",
+    "end_time": "6/1/22 19:12",
+    "fixed_problem": "f",
+    "uid__1": 8489,
+    "uid__2": 1092
+  },
+  {
+    "uid": 9911,
+    "location": "",
+    "start_time": "6/1/22 18:32",
+    "end_time": "6/1/22 17:38",
+    "fixed_problem": "f",
+    "uid__1": 8119,
+    "uid__2": 1308
+  },
+  {
+    "uid": 9912,
+    "location": "",
+    "start_time": "6/1/22 1:40",
+    "end_time": "6/1/22 19:39",
+    "fixed_problem": "t",
+    "uid__1": 8566,
+    "uid__2": 865
+  },
+  {
+    "uid": 9913,
+    "location": "",
+    "start_time": "6/1/22 8:30",
+    "end_time": "5/31/22 21:15",
+    "fixed_problem": "f",
+    "uid__1": 8628,
+    "uid__2": 963
+  },
+  {
+    "uid": 9914,
+    "location": "",
+    "start_time": "6/1/22 15:17",
+    "end_time": "6/1/22 11:04",
+    "fixed_problem": "t",
+    "uid__1": 8561,
+    "uid__2": 1176
+  },
+  {
+    "uid": 9915,
+    "location": "",
+    "start_time": "6/1/22 8:25",
+    "end_time": "6/1/22 16:16",
+    "fixed_problem": "f",
+    "uid__1": 8841,
+    "uid__2": 1092
+  },
+  {
+    "uid": 9916,
+    "location": "",
+    "start_time": "6/1/22 17:47",
+    "end_time": "6/1/22 15:31",
+    "fixed_problem": "t",
+    "uid__1": 8785,
+    "uid__2": 941
+  },
+  {
+    "uid": 9917,
+    "location": "",
+    "start_time": "5/31/22 23:17",
+    "end_time": "6/1/22 8:44",
+    "fixed_problem": "t",
+    "uid__1": 8166,
+    "uid__2": 1133
+  },
+  {
+    "uid": 9918,
+    "location": "",
+    "start_time": "6/1/22 11:25",
+    "end_time": "6/1/22 10:56",
+    "fixed_problem": "f",
+    "uid__1": 8415,
+    "uid__2": 949
+  },
+  {
+    "uid": 9919,
+    "location": "",
+    "start_time": "6/1/22 2:57",
+    "end_time": "6/1/22 6:40",
+    "fixed_problem": "f",
+    "uid__1": 8198,
+    "uid__2": 796
+  },
+  {
+    "uid": 9920,
+    "location": "",
+    "start_time": "6/1/22 6:19",
+    "end_time": "6/1/22 2:06",
+    "fixed_problem": "t",
+    "uid__1": 8973,
+    "uid__2": 720
+  },
+  {
+    "uid": 9921,
+    "location": "",
+    "start_time": "6/1/22 11:56",
+    "end_time": "6/1/22 11:45",
+    "fixed_problem": "f",
+    "uid__1": 9015,
+    "uid__2": 1013
+  },
+  {
+    "uid": 9922,
+    "location": "",
+    "start_time": "6/1/22 18:52",
+    "end_time": "6/1/22 2:17",
+    "fixed_problem": "t",
+    "uid__1": 8928,
+    "uid__2": 1124
+  },
+  {
+    "uid": 9923,
+    "location": "",
+    "start_time": "6/1/22 12:24",
+    "end_time": "6/1/22 9:43",
+    "fixed_problem": "t",
+    "uid__1": 8255,
+    "uid__2": 963
+  },
+  {
+    "uid": 9924,
+    "location": "",
+    "start_time": "6/1/22 3:52",
+    "end_time": "6/1/22 2:03",
+    "fixed_problem": "f",
+    "uid__1": 8634,
+    "uid__2": 1109
+  },
+  {
+    "uid": 9925,
+    "location": "",
+    "start_time": "6/1/22 3:35",
+    "end_time": "6/1/22 9:10",
+    "fixed_problem": "t",
+    "uid__1": 8140,
+    "uid__2": 1341
+  },
+  {
+    "uid": 9926,
+    "location": "",
+    "start_time": "6/1/22 3:12",
+    "end_time": "6/1/22 15:00",
+    "fixed_problem": "t",
+    "uid__1": 8408,
+    "uid__2": 1077
+  },
+  {
+    "uid": 9927,
+    "location": "",
+    "start_time": "6/1/22 13:26",
+    "end_time": "5/31/22 23:27",
+    "fixed_problem": "f",
+    "uid__1": 8238,
+    "uid__2": 693
+  },
+  {
+    "uid": 9928,
+    "location": "",
+    "start_time": "6/1/22 9:36",
+    "end_time": "6/1/22 19:54",
+    "fixed_problem": "f",
+    "uid__1": 8171,
+    "uid__2": 847
+  },
+  {
+    "uid": 9929,
+    "location": "",
+    "start_time": "5/31/22 22:47",
+    "end_time": "6/1/22 11:59",
+    "fixed_problem": "t",
+    "uid__1": 8582,
+    "uid__2": 1335
+  },
+  {
+    "uid": 9930,
+    "location": "",
+    "start_time": "5/31/22 22:37",
+    "end_time": "6/1/22 16:09",
+    "fixed_problem": "t",
+    "uid__1": 8473,
+    "uid__2": 1291
+  },
+  {
+    "uid": 9931,
+    "location": "",
+    "start_time": "6/1/22 17:12",
+    "end_time": "6/1/22 10:21",
+    "fixed_problem": "f",
+    "uid__1": 8444,
+    "uid__2": 1176
+  },
+  {
+    "uid": 9932,
+    "location": "",
+    "start_time": "6/1/22 19:04",
+    "end_time": "6/1/22 4:53",
+    "fixed_problem": "f",
+    "uid__1": 8106,
+    "uid__2": 1000
+  },
+  {
+    "uid": 9933,
+    "location": "",
+    "start_time": "6/1/22 0:46",
+    "end_time": "6/1/22 19:05",
+    "fixed_problem": "t",
+    "uid__1": 8158,
+    "uid__2": 1016
+  },
+  {
+    "uid": 9934,
+    "location": "",
+    "start_time": "6/1/22 19:43",
+    "end_time": "6/1/22 4:43",
+    "fixed_problem": "f",
+    "uid__1": 8175,
+    "uid__2": 853
+  },
+  {
+    "uid": 9935,
+    "location": "",
+    "start_time": "6/1/22 6:43",
+    "end_time": "6/1/22 6:16",
+    "fixed_problem": "f",
+    "uid__1": 8152,
+    "uid__2": 916
+  },
+  {
+    "uid": 9936,
+    "location": "",
+    "start_time": "6/1/22 6:57",
+    "end_time": "6/1/22 6:41",
+    "fixed_problem": "f",
+    "uid__1": 8611,
+    "uid__2": 1036
+  },
+  {
+    "uid": 9937,
+    "location": "",
+    "start_time": "5/31/22 22:35",
+    "end_time": "6/1/22 1:17",
+    "fixed_problem": "t",
+    "uid__1": 8434,
+    "uid__2": 1283
+  },
+  {
+    "uid": 9938,
+    "location": "",
+    "start_time": "6/1/22 13:03",
+    "end_time": "6/1/22 19:42",
+    "fixed_problem": "t",
+    "uid__1": 8719,
+    "uid__2": 695
+  },
+  {
+    "uid": 9939,
+    "location": "",
+    "start_time": "6/1/22 1:25",
+    "end_time": "6/1/22 7:56",
+    "fixed_problem": "f",
+    "uid__1": 8979,
+    "uid__2": 1159
+  },
+  {
+    "uid": 9940,
+    "location": "",
+    "start_time": "6/1/22 14:51",
+    "end_time": "6/1/22 3:37",
+    "fixed_problem": "f",
+    "uid__1": 8718,
+    "uid__2": 1342
+  },
+  {
+    "uid": 9941,
+    "location": "",
+    "start_time": "6/1/22 10:29",
+    "end_time": "5/31/22 21:47",
+    "fixed_problem": "f",
+    "uid__1": 8600,
+    "uid__2": 1194
+  },
+  {
+    "uid": 9942,
+    "location": "",
+    "start_time": "5/31/22 21:42",
+    "end_time": "5/31/22 20:08",
+    "fixed_problem": "t",
+    "uid__1": 8712,
+    "uid__2": 1220
+  },
+  {
+    "uid": 9943,
+    "location": "",
+    "start_time": "6/1/22 13:17",
+    "end_time": "5/31/22 23:53",
+    "fixed_problem": "t",
+    "uid__1": 8919,
+    "uid__2": 683
+  },
+  {
+    "uid": 9944,
+    "location": "",
+    "start_time": "5/31/22 22:50",
+    "end_time": "6/1/22 8:56",
+    "fixed_problem": "f",
+    "uid__1": 8375,
+    "uid__2": 740
+  },
+  {
+    "uid": 9945,
+    "location": "",
+    "start_time": "5/31/22 20:45",
+    "end_time": "6/1/22 12:00",
+    "fixed_problem": "f",
+    "uid__1": 8589,
+    "uid__2": 1341
+  },
+  {
+    "uid": 9946,
+    "location": "",
+    "start_time": "6/1/22 16:40",
+    "end_time": "6/1/22 10:40",
+    "fixed_problem": "f",
+    "uid__1": 8474,
+    "uid__2": 820
+  },
+  {
+    "uid": 9947,
+    "location": "",
+    "start_time": "6/1/22 14:36",
+    "end_time": "5/31/22 21:13",
+    "fixed_problem": "t",
+    "uid__1": 8430,
+    "uid__2": 1112
+  },
+  {
+    "uid": 9948,
+    "location": "",
+    "start_time": "6/1/22 7:51",
+    "end_time": "6/1/22 13:37",
+    "fixed_problem": "t",
+    "uid__1": 8026,
+    "uid__2": 1068
+  },
+  {
+    "uid": 9949,
+    "location": "",
+    "start_time": "6/1/22 2:41",
+    "end_time": "6/1/22 16:58",
+    "fixed_problem": "f",
+    "uid__1": 9021,
+    "uid__2": 946
+  },
+  {
+    "uid": 9950,
+    "location": "",
+    "start_time": "6/1/22 11:20",
+    "end_time": "6/1/22 8:17",
+    "fixed_problem": "f",
+    "uid__1": 8339,
+    "uid__2": 941
+  },
+  {
+    "uid": 9951,
+    "location": "",
+    "start_time": "6/1/22 1:23",
+    "end_time": "6/1/22 15:51",
+    "fixed_problem": "t",
+    "uid__1": 8856,
+    "uid__2": 1008
+  },
+  {
+    "uid": 9952,
+    "location": "",
+    "start_time": "6/1/22 1:12",
+    "end_time": "6/1/22 17:36",
+    "fixed_problem": "t",
+    "uid__1": 8158,
+    "uid__2": 1016
+  },
+  {
+    "uid": 9953,
+    "location": "",
+    "start_time": "6/1/22 13:16",
+    "end_time": "6/1/22 10:20",
+    "fixed_problem": "f",
+    "uid__1": 8108,
+    "uid__2": 1115
+  },
+  {
+    "uid": 9954,
+    "location": "",
+    "start_time": "6/1/22 10:55",
+    "end_time": "5/31/22 21:31",
+    "fixed_problem": "t",
+    "uid__1": 8242,
+    "uid__2": 1069
+  },
+  {
+    "uid": 9955,
+    "location": "",
+    "start_time": "6/1/22 15:05",
+    "end_time": "6/1/22 0:37",
+    "fixed_problem": "t",
+    "uid__1": 8846,
+    "uid__2": 894
+  },
+  {
+    "uid": 9956,
+    "location": "",
+    "start_time": "6/1/22 15:19",
+    "end_time": "6/1/22 16:59",
+    "fixed_problem": "t",
+    "uid__1": 8095,
+    "uid__2": 866
+  },
+  {
+    "uid": 9957,
+    "location": "",
+    "start_time": "6/1/22 18:50",
+    "end_time": "6/1/22 5:30",
+    "fixed_problem": "t",
+    "uid__1": 8219,
+    "uid__2": 768
+  },
+  {
+    "uid": 9958,
+    "location": "",
+    "start_time": "6/1/22 11:03",
+    "end_time": "6/1/22 17:44",
+    "fixed_problem": "t",
+    "uid__1": 8260,
+    "uid__2": 832
+  },
+  {
+    "uid": 9959,
+    "location": "",
+    "start_time": "5/31/22 23:54",
+    "end_time": "6/1/22 11:59",
+    "fixed_problem": "f",
+    "uid__1": 8811,
+    "uid__2": 1108
+  },
+  {
+    "uid": 9960,
+    "location": "",
+    "start_time": "6/1/22 4:48",
+    "end_time": "5/31/22 23:41",
+    "fixed_problem": "f",
+    "uid__1": 8880,
+    "uid__2": 728
+  },
+  {
+    "uid": 9961,
+    "location": "",
+    "start_time": "5/31/22 21:21",
+    "end_time": "6/1/22 3:48",
+    "fixed_problem": "t",
+    "uid__1": 8904,
+    "uid__2": 1062
+  },
+  {
+    "uid": 9962,
+    "location": "",
+    "start_time": "6/1/22 16:10",
+    "end_time": "6/1/22 14:41",
+    "fixed_problem": "t",
+    "uid__1": 8500,
+    "uid__2": 1198
+  },
+  {
+    "uid": 9963,
+    "location": "",
+    "start_time": "6/1/22 4:33",
+    "end_time": "6/1/22 3:43",
+    "fixed_problem": "f",
+    "uid__1": 8573,
+    "uid__2": 868
+  },
+  {
+    "uid": 9964,
+    "location": "",
+    "start_time": "6/1/22 15:06",
+    "end_time": "5/31/22 23:45",
+    "fixed_problem": "f",
+    "uid__1": 8259,
+    "uid__2": 1041
+  },
+  {
+    "uid": 9965,
+    "location": "",
+    "start_time": "6/1/22 1:17",
+    "end_time": "6/1/22 7:42",
+    "fixed_problem": "t",
+    "uid__1": 8943,
+    "uid__2": 700
+  },
+  {
+    "uid": 9966,
+    "location": "",
+    "start_time": "5/31/22 22:08",
+    "end_time": "6/1/22 2:56",
+    "fixed_problem": "t",
+    "uid__1": 8788,
+    "uid__2": 1255
+  },
+  {
+    "uid": 9967,
+    "location": "",
+    "start_time": "6/1/22 3:42",
+    "end_time": "6/1/22 3:50",
+    "fixed_problem": "t",
+    "uid__1": 8741,
+    "uid__2": 1219
+  },
+  {
+    "uid": 9968,
+    "location": "",
+    "start_time": "6/1/22 8:16",
+    "end_time": "5/31/22 21:24",
+    "fixed_problem": "f",
+    "uid__1": 8348,
+    "uid__2": 850
+  },
+  {
+    "uid": 9969,
+    "location": "",
+    "start_time": "6/1/22 7:20",
+    "end_time": "6/1/22 0:44",
+    "fixed_problem": "t",
+    "uid__1": 8795,
+    "uid__2": 777
+  },
+  {
+    "uid": 9970,
+    "location": "",
+    "start_time": "6/1/22 17:13",
+    "end_time": "6/1/22 9:52",
+    "fixed_problem": "t",
+    "uid__1": 9003,
+    "uid__2": 1243
+  },
+  {
+    "uid": 9971,
+    "location": "",
+    "start_time": "6/1/22 7:01",
+    "end_time": "6/1/22 0:46",
+    "fixed_problem": "t",
+    "uid__1": 8951,
+    "uid__2": 868
+  },
+  {
+    "uid": 9972,
+    "location": "",
+    "start_time": "6/1/22 3:28",
+    "end_time": "6/1/22 6:23",
+    "fixed_problem": "t",
+    "uid__1": 8249,
+    "uid__2": 1157
+  },
+  {
+    "uid": 9973,
+    "location": "",
+    "start_time": "6/1/22 0:50",
+    "end_time": "6/1/22 9:36",
+    "fixed_problem": "t",
+    "uid__1": 8373,
+    "uid__2": 857
+  },
+  {
+    "uid": 9974,
+    "location": "",
+    "start_time": "6/1/22 0:40",
+    "end_time": "5/31/22 21:56",
+    "fixed_problem": "f",
+    "uid__1": 8638,
+    "uid__2": 927
+  },
+  {
+    "uid": 9975,
+    "location": "",
+    "start_time": "6/1/22 14:27",
+    "end_time": "6/1/22 19:45",
+    "fixed_problem": "f",
+    "uid__1": 8393,
+    "uid__2": 1219
+  },
+  {
+    "uid": 9976,
+    "location": "",
+    "start_time": "6/1/22 15:01",
+    "end_time": "5/31/22 21:26",
+    "fixed_problem": "f",
+    "uid__1": 8807,
+    "uid__2": 894
+  },
+  {
+    "uid": 9977,
+    "location": "",
+    "start_time": "5/31/22 23:54",
+    "end_time": "5/31/22 22:58",
+    "fixed_problem": "t",
+    "uid__1": 8146,
+    "uid__2": 689
+  },
+  {
+    "uid": 9978,
+    "location": "",
+    "start_time": "5/31/22 23:47",
+    "end_time": "6/1/22 0:15",
+    "fixed_problem": "t",
+    "uid__1": 8490,
+    "uid__2": 832
+  },
+  {
+    "uid": 9979,
+    "location": "",
+    "start_time": "6/1/22 5:20",
+    "end_time": "6/1/22 20:02",
+    "fixed_problem": "t",
+    "uid__1": 8894,
+    "uid__2": 893
+  },
+  {
+    "uid": 9980,
+    "location": "",
+    "start_time": "6/1/22 3:19",
+    "end_time": "6/1/22 9:55",
+    "fixed_problem": "f",
+    "uid__1": 8419,
+    "uid__2": 1212
+  },
+  {
+    "uid": 9981,
+    "location": "",
+    "start_time": "6/1/22 17:24",
+    "end_time": "6/1/22 9:49",
+    "fixed_problem": "t",
+    "uid__1": 9009,
+    "uid__2": 906
+  },
+  {
+    "uid": 9982,
+    "location": "",
+    "start_time": "6/1/22 18:27",
+    "end_time": "6/1/22 19:55",
+    "fixed_problem": "f",
+    "uid__1": 8477,
+    "uid__2": 1116
+  },
+  {
+    "uid": 9983,
+    "location": "",
+    "start_time": "6/1/22 14:44",
+    "end_time": "6/1/22 5:08",
+    "fixed_problem": "f",
+    "uid__1": 8307,
+    "uid__2": 758
+  },
+  {
+    "uid": 9984,
+    "location": "",
+    "start_time": "6/1/22 16:47",
+    "end_time": "6/1/22 13:57",
+    "fixed_problem": "f",
+    "uid__1": 8599,
+    "uid__2": 975
+  },
+  {
+    "uid": 9985,
+    "location": "",
+    "start_time": "6/1/22 15:32",
+    "end_time": "6/1/22 8:53",
+    "fixed_problem": "t",
+    "uid__1": 8960,
+    "uid__2": 996
+  },
+  {
+    "uid": 9986,
+    "location": "",
+    "start_time": "6/1/22 19:09",
+    "end_time": "6/1/22 11:32",
+    "fixed_problem": "t",
+    "uid__1": 8960,
+    "uid__2": 996
+  },
+  {
+    "uid": 9987,
+    "location": "",
+    "start_time": "6/1/22 16:56",
+    "end_time": "6/1/22 15:40",
+    "fixed_problem": "f",
+    "uid__1": 8462,
+    "uid__2": 1277
+  },
+  {
+    "uid": 9988,
+    "location": "",
+    "start_time": "6/1/22 17:36",
+    "end_time": "5/31/22 23:36",
+    "fixed_problem": "f",
+    "uid__1": 8254,
+    "uid__2": 769
+  },
+  {
+    "uid": 9989,
+    "location": "",
+    "start_time": "6/1/22 18:28",
+    "end_time": "6/1/22 5:07",
+    "fixed_problem": "f",
+    "uid__1": 8397,
+    "uid__2": 1104
+  },
+  {
+    "uid": 9990,
+    "location": "",
+    "start_time": "5/31/22 20:50",
+    "end_time": "6/1/22 5:49",
+    "fixed_problem": "t",
+    "uid__1": 8935,
+    "uid__2": 1048
+  },
+  {
+    "uid": 9991,
+    "location": "",
+    "start_time": "6/1/22 4:58",
+    "end_time": "6/1/22 12:51",
+    "fixed_problem": "t",
+    "uid__1": 8425,
+    "uid__2": 787
+  },
+  {
+    "uid": 9992,
+    "location": "",
+    "start_time": "6/1/22 14:53",
+    "end_time": "5/31/22 23:16",
+    "fixed_problem": "f",
+    "uid__1": 8777,
+    "uid__2": 716
+  },
+  {
+    "uid": 9993,
+    "location": "",
+    "start_time": "6/1/22 15:56",
+    "end_time": "6/1/22 0:36",
+    "fixed_problem": "f",
+    "uid__1": 9015,
+    "uid__2": 1013
+  },
+  {
+    "uid": 9994,
+    "location": "",
+    "start_time": "6/1/22 14:06",
+    "end_time": "6/1/22 4:44",
+    "fixed_problem": "f",
+    "uid__1": 8511,
+    "uid__2": 972
+  },
+  {
+    "uid": 9995,
+    "location": "",
+    "start_time": "5/31/22 21:18",
+    "end_time": "6/1/22 17:11",
+    "fixed_problem": "f",
+    "uid__1": 8331,
+    "uid__2": 1326
+  },
+  {
+    "uid": 9996,
+    "location": "",
+    "start_time": "6/1/22 19:22",
+    "end_time": "5/31/22 22:25",
+    "fixed_problem": "t",
+    "uid__1": 8728,
+    "uid__2": 780
+  },
+  {
+    "uid": 9997,
+    "location": "",
+    "start_time": "6/1/22 19:43",
+    "end_time": "6/1/22 1:17",
+    "fixed_problem": "t",
+    "uid__1": 8127,
+    "uid__2": 1097
+  },
+  {
+    "uid": 9998,
+    "location": "",
+    "start_time": "6/1/22 19:38",
+    "end_time": "6/1/22 6:02",
+    "fixed_problem": "t",
+    "uid__1": 8310,
+    "uid__2": 927
+  },
+  {
+    "uid": 9999,
+    "location": "",
+    "start_time": "6/1/22 14:37",
+    "end_time": "6/1/22 16:38",
+    "fixed_problem": "t",
+    "uid__1": 8305,
+    "uid__2": 1164
+  },
+  {
+    "uid": 10000,
+    "location": "",
+    "start_time": "6/1/22 11:53",
+    "end_time": "6/1/22 0:26",
+    "fixed_problem": "f",
+    "uid__1": 8080,
+    "uid__2": 1097
+  }
+]
